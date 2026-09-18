@@ -14,6 +14,8 @@ if(true) {
 // console.log(b);
 // console.log(c); //this prints 30 because it is outside scope still it prints var c = 30
 
+//var scope is completely global always
+
 // {} -> SCOPE
 
 //nested scope

@@ -18,3 +18,4 @@
 ( (name) => { //through arrow function // simple iife
     console.log(`DB CONNECTED 2 ${name}`);
 }) ("aryan");
+
